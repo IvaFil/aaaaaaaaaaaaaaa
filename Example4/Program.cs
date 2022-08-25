@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿float a=12;
+float b = 5;
+Console.WriteLine(a/b);
